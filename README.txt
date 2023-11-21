@@ -9,4 +9,4 @@ SO, if you want to make a MV for your class or anything else, don't be hesitate 
 - YouTube: @realTerrious and @ntcedm
 Ah, I'm also a founder/manager of a label called Kamy Records, so if you're having any demos, plz submit to us through our website:
 - https://kamyrecords.us.to (đói demo vl huhu)
-// We focus on EDM, but maybe a little Trap or DnB would be okay ;)
+// We focus on EDM, but maybe a little Trap or DnB would be okay ;))
