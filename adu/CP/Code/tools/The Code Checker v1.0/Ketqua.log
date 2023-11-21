@@ -1,0 +1,172 @@
+**Checking GIFTS for 08.05.01
++)Compiled successfully!
+  #1 Checking test
+ >>>> Test 1 incorrect!
+  #2 Checking test
+ >>>> Test 2 incorrect!
+  #3 Checking test
+ >>>> Test 3 incorrect!
+  #4 Checking test
+ >>>> Test 4 incorrect!
+  #5 Checking test
+ >>>> Test 5 incorrect!
+  #6 Checking test
+ >>>> Test 6 incorrect!
+  #7 Checking test
+ >>>> Test 7 incorrect!
+  #8 Checking test
+ >>>> Test 8 incorrect!
+  #9 Checking test
+ >>>> Test 9 incorrect!
+  #10 Checking test
+ >>>> Test 10 incorrect!
+  #11 Checking test
+ >>>> Test 11 incorrect!
+  #12 Checking test
+ >>>> Test 12 incorrect!
+So test dung: 0/12
+**Checking HIDESEEK for 08.05.01
++)Compiled successfully!
+  #1 Checking test
+  >>>> Test 1 correct!
+  #2 Checking test
+  >>>> Test 2 correct!
+  #3 Checking test
+  >>>> Test 3 correct!
+  #4 Checking test
+  >>>> Test 4 correct!
+  #5 Checking test
+  >>>> Test 5 correct!
+  #6 Checking test
+  >>>> Test 6 correct!
+  #7 Checking test
+  >>>> Test 7 correct!
+  #8 Checking test
+  >>>> Test 8 correct!
+  #9 Checking test
+  >>>> Test 9 correct!
+  #10 Checking test
+  >>>> Test 10 correct!
+  #11 Checking test
+  >>>> Test 11 correct!
+  #12 Checking test
+  >>>> Test 12 correct!
+  #13 Checking test
+  >>>> Test 13 correct!
+  #14 Checking test
+  >>>> Test 14 correct!
+  #15 Checking test
+  >>>> Test 15 correct!
+  #16 Checking test
+  >>>> Test 16 correct!
+  #17 Checking test
+  >>>> Test 17 correct!
+  #18 Checking test
+  >>>> Test 18 correct!
+  #19 Checking test
+  >>>> Test 19 correct!
+  #20 Checking test
+  >>>> Test 20 correct!
+  #21 Checking test
+  >>>> Test 21 correct!
+  #22 Checking test
+  >>>> Test 22 correct!
+  #23 Checking test
+  >>>> Test 23 correct!
+  #24 Checking test
+  >>>> Test 24 correct!
+So test dung: 24/24
+**Checking TOWCOMP for 08.05.01
++)Compiled successfully!
+  #1 Checking test
+  >>>> Test 1 correct!
+  #2 Checking test
+  >>>> Test 2 correct!
+  #3 Checking test
+  >>>> Test 3 correct!
+  #4 Checking test
+  >>>> Test 4 correct!
+  #5 Checking test
+  >>>> Test 5 correct!
+  #6 Checking test
+  >>>> Test 6 correct!
+  #7 Checking test
+  >>>> Test 7 correct!
+  #8 Checking test
+  >>>> Test 8 correct!
+  #9 Checking test
+  >>>> Test 9 correct!
+  #10 Checking test
+  >>>> Test 10 correct!
+  #11 Checking test
+  >>>> Test 11 correct!
+  #12 Checking test
+  >>>> Test 12 correct!
+  #13 Checking test
+  >>>> Test 13 correct!
+  #14 Checking test
+  >>>> Test 14 correct!
+  #15 Checking test
+  >>>> Test 15 correct!
+  #16 Checking test
+  >>>> Test 16 correct!
+  #17 Checking test
+  >>>> Test 17 correct!
+  #18 Checking test
+  >>>> Test 18 correct!
+  #19 Checking test
+  >>>> Test 19 reached timeout! (1s)
+  #20 Checking test
+  >>>> Test 20 reached timeout! (1s)
+So test dung: 18/20
+**Checking TRAP for 08.05.01
++)Compiled successfully!
+  #1 Checking test
+  >>>> Test 1 correct!
+  #2 Checking test
+  >>>> Test 2 correct!
+  #3 Checking test
+  >>>> Test 3 correct!
+  #4 Checking test
+  >>>> Test 4 correct!
+  #5 Checking test
+  >>>> Test 5 correct!
+  #6 Checking test
+  >>>> Test 6 correct!
+  #7 Checking test
+  >>>> Test 7 correct!
+  #8 Checking test
+  >>>> Test 8 correct!
+  #9 Checking test
+  >>>> Test 9 correct!
+  #10 Checking test
+  >>>> Test 10 correct!
+  #11 Checking test
+  >>>> Test 11 correct!
+  #12 Checking test
+  >>>> Test 12 correct!
+  #13 Checking test
+  >>>> Test 13 correct!
+  #14 Checking test
+  >>>> Test 14 correct!
+  #15 Checking test
+  >>>> Test 15 correct!
+  #16 Checking test
+  >>>> Test 16 correct!
+  #17 Checking test
+  >>>> Test 17 correct!
+  #18 Checking test
+  >>>> Test 18 correct!
+  #19 Checking test
+  >>>> Test 19 correct!
+  #20 Checking test
+  >>>> Test 20 correct!
+  #21 Checking test
+  >>>> Test 21 correct!
+  #22 Checking test
+  >>>> Test 22 correct!
+  #23 Checking test
+  >>>> Test 23 correct!
+  #24 Checking test
+  >>>> Test 24 correct!
+So test dung: 24/24
