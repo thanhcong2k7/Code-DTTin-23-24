@@ -14,7 +14,7 @@ int main(){
         if (x==1){
             cin >> a;
             st.push(a);
-        } else if (x==2) st.pop();
+        } else if (x==2 && !st.empty()) st.pop();
         else if (x==3){
             if (st.empty()) cout << "-1" << endl;
             else cout << st.top() << endl;
