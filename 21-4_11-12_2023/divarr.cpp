@@ -6,10 +6,11 @@ int main(){
     cin.tie(0);cout.tie(0);
     int n,k;
     cin >> n >> k;
-    int a[n]={0};
-    for (auto& x:a) cin >> x;
-    sort(a,a+n);
-    int spt=n/k+1;
-    
+    int a[n]={0},sum=0;
+    for (auto& x:a) {cin >> x; sum+=x;}
+    int l=1,r=sum,mid=(l+r)/2;
+    while(l<k){
+        //
+    }
     return 0;
 }
