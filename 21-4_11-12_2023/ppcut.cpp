@@ -7,12 +7,15 @@ int main()
     cin.tie(0); cout.tie(0);
     long n,k;
     cin >> n >> k;
-    long cnt=k/2+1;
-    n-=cnt*2;
+    long cnt=0,sus=1;
+    while(sus<k){
+        sus*=2;
+        cnt++;
+    }
     cnt+=n/k-1;
     cout << cnt << endl;
     n-=((long)(n/k))*k;
-    cnt+=n-1;
+    cnt+=n;
     cout << cnt << endl;
     return 0;
 }
