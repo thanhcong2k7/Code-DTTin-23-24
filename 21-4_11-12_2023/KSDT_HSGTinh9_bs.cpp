@@ -25,6 +25,7 @@ int main()
         a[i].i=i;
         a[i].val=tmp;
     }
+    
     sort(a,a+n,cmp);
     for (auto& it:a)
         cout << it.i << " " << it.val << endl;

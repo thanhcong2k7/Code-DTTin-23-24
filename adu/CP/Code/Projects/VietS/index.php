@@ -1,5 +1,5 @@
 <?php
-	session_start();
+	//session_start();
 	if (!isset($_SESSION['username'])) {
 		header('Location: forms/login.php');
 }
@@ -13,6 +13,7 @@
 	<body style="background-color:#303030">
 		<div class="navbar">
 			<center>
+				<script>alert('finished!');</script>
 				<h2>Welcome to VietS, <?php echo $_SESSION['username']; ?>!!</h2>
 				<button class="tablink" onclick="openPage('Home', this, '#777777')" id="defaultOpen">Home</button>
 				<button class="tablink" onclick="openPage('News', this, '#777777')">News</button>
