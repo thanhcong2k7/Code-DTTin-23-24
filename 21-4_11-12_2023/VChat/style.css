@@ -1,0 +1,11 @@
+.box{
+    background-color: blanchedalmond;
+    border-style:solid;
+    border-radius: 7px;
+    border-width: 1;
+    height: 75%;
+    width: 50%;
+}
+p{
+    font-family:'Courier New', Courier, monospace;
+}
