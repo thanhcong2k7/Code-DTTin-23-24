@@ -66,9 +66,9 @@ void checktest(string ostype,string hs,string bai,string lang,int sotest,int tim
         //
         // Copy to current dir
         //
-        string copy=copyos+" Test/"+bai+"/"+testdir+"/"+bai+".INP"+" .",
+        string copy=copyos+" ./Test/"+bai+"/"+testdir+"/"+bai+".INP"+" .",
                ren=renameos+" "+bai+".INP "+lowercase(bai)+".inp";
-        string copy1="cp Test/"+bai+"/"+testdir+"/"+bai+".inp"+" .";
+        string copy1="cp ./Test/"+bai+"/"+testdir+"/"+bai+".inp"+" .";
         system(copy.c_str()); //Copy input to hs_dir
         system(copy1.c_str());
         system(ren.c_str()); //lowercase
