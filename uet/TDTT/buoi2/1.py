@@ -1,0 +1,5 @@
+inp = input("Input a, b, c: ").split()
+a = int(inp[0])
+b = int(inp[1])
+c = int(inp[2])
+print(f"Output (a + b) * (a - c) = {(a + b) * (a - c)}")

@@ -1,0 +1,5 @@
+inp = input("Input Diem thanh phan (1, 2, 3): ").split()
+a = float(inp[0])
+b = float(inp[1])
+c = float(inp[2])
+print(f"Output Diem tong ket: {a*0.1+b*0.3+c*0.6}")
